@@ -134,14 +134,12 @@ func Deviation(data []float64) float64 {
 
 ## Utilisation
 
-Pour utiliser cet outil, suivez les étapes suivantes :
+Pour utiliser le programme :
 
-1. Assurez-vous que vous avez Go installé sur votre système.
-2. Téléchargez ou clonez ce dépôt sur votre machine.
-3. Ouvrez un terminal et naviguez jusqu'au répertoire contenant les fichiers.
-4. Exécutez le programme en utilisant la commande suivante :
+Clonez ce dêpot et exécutez le programme en utilisant la commande suivante :
 
 ```bash
+git clone https://zone01normandie.org/git/mtrebert/math-skills.git
 cd math-skills/
 go run . <inputfile>
 ```
