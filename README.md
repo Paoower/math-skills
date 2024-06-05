@@ -134,9 +134,7 @@ func Deviation(data []float64) float64 {
 
 ## Utilisation
 
-Pour utiliser le programme :
-
-Clonez ce dêpot et exécutez le programme en utilisant la commande suivante :
+- Pour utiliser le programme clonez ce dêpot et exécutez le programme en utilisant la commande suivante :
 
 ```bash
 git clone https://zone01normandie.org/git/mtrebert/math-skills.git
