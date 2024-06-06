@@ -48,7 +48,6 @@ func main() {
 
 // Print various statistics calculated from data
 func Statistic(data []float64) {
-	fmt.Println(len(data))
 	fmt.Println("Average:", int(math.Round(calculation.Average(data))))
 	fmt.Println("Median:", int(math.Round(calculation.Median(data))))
 	fmt.Println("Variance:", int(math.Round(calculation.Variance(data))))
